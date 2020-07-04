@@ -1,5 +1,5 @@
 # SuperMario
-A improved supermario game based on https://github.com/justinmeister/Mario-Level-1.
+A improved supermario game based on https://github.com/Viraj-Bhartiya/Super-Mario.
 * support four levels：level 1-1 to level 1-4 
 * support go into the pipe
 * use json file to store level data (e.g. position of enemy, brick, box and pipe)
